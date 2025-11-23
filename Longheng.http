@@ -1,0 +1,6 @@
+@Longheng_HostAddress = http://localhost:5201
+
+GET {{Longheng_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
